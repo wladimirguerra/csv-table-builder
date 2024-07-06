@@ -1,0 +1,2 @@
+Logging,"Secure Transport",Versioning,"MFA Delete",Encryption,"Public Access"
+logging,secure_transport_enabled,versioning_status_enabled,version_mfa_delete_enabled,default_encryption_key,"Public Access"
