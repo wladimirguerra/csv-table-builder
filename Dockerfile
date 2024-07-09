@@ -1,4 +1,4 @@
-FROM denoland/deno:ubuntu
+FROM denoland/deno:alpine
 
 EXPOSE 1993
 
